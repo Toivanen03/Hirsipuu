@@ -1,0 +1,2 @@
+{'Pelaaja': 'S.T.', 'Vaikeustaso': 'Vaikea', 'Pelin tulos': 'Kaikki kirjaimet arvattu', 'Sana': 'SYSTERIN', 'Aika': '31'}
+{'Pelaaja': 'Nimetön pelaaja', 'Vaikeustaso': 'Helppo', 'Pelin tulos': 'Hirtetty', 'Sana': 'AINOA', 'Aika': '54'}
